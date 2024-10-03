@@ -6,7 +6,7 @@ Welcome to my portfolio website, showcasing my projects, skills, and professiona
 You can visit the website here: [Portfolio Website](https://mohammedobaidraza.github.io/portfolioh/)
 
 ## Features and Sections
-
+#7 
 ### 1. **Home Page**
 The Home page serves as the entry point to the website, featuring a clean and modern design. It contains an introduction to me, Mohammed Obaid Raza, along with key highlights of my professional background and personal interests.
 
